@@ -1,0 +1,40 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+
+.bars{
+    width: 25px;
+    margin-right: 15px !important;
+    background-color: gold;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 4px solid black;
+}
+
+.btn{
+    margin-right: 15px !important ;
+    font-size: 1.2rem;
+}
+
+.min-idx{
+    background-color: chocolate;
+}
+
+.slider > label{
+    font-size: 1.5rem;
+    margin-right: 5px !important;
+}
+
+.select{
+    background-color: red;
+}
+
+.success-sort{
+    background-color: green;
+}
